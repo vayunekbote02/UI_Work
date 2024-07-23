@@ -1,2 +1,2 @@
 # UI_Work
-All the assignments of UI
+The assignment folder contains all the assignments according to each day.
